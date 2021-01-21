@@ -6,7 +6,7 @@ body {
 }
 textarea {
   background: transparent;
-  color: transparent;
+  color: black;
   width: 70%;
   height: 10vh;
   margin: 1rem auto;
